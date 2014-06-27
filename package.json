@@ -20,10 +20,17 @@
     "norfolkjs",
     "express"
   ],
-  "author": "NorfolkJS",
+  "author": "Travis Webb <me@traviswebb.com>",
   "contributors": [
-    "1kevgriff",
-    "tjwebb"
+    {
+      "name": "1kevgriff",
+      "email": "kevin@consultwithgriff.com",
+      "url": "http://kevgriffin.com/"
+    },
+    {
+      "name": "Travis Webb",
+      "email": "me@traviswebb.com"
+    }
   ],
   "license": "MIT",
   "bugs": {

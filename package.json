@@ -21,6 +21,10 @@
     "express"
   ],
   "author": "NorfolkJS",
+  "contributors": [
+    "1kevgriff",
+    "tjwebb"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/norfolkjs/june2014-beginner-workshop/issues"

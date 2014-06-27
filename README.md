@@ -1,5 +1,4 @@
-june2014-beginner-workshop
-======================
+## june2014-beginner-workshop
 
 ### 1. Get it
 - clone this repository

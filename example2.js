@@ -1,6 +1,9 @@
 var express = require('express'),
   app = express(),
-  path = require('path');
+  path = require('path'),
+  compression = require('compression');
+
+app.use(compression());
 
 app.get('/hello', function (req, res) {
   res.send('Hello World');

@@ -1,0 +1,32 @@
+{
+  "name": "norfolkjs-june2014-examples",
+  "version": "0.0.0",
+  "description": "NorfolkJS Node Beginner Workshop (June 2014 meetup)",
+  "main": "index.js",
+  "scripts": {
+    "example0": "node example0",
+    "example1": "node example1",
+    "example2": "node example2",
+    "example3": "node example3",
+    "example4": "node example4",
+    "example5": "node example5",
+    "example6": "node example6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/norfolkjs/june2014-beginner-workshop"
+  },
+  "keywords": [
+    "norfolkjs",
+    "express"
+  ],
+  "author": "NorfolkJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/norfolkjs/june2014-beginner-workshop/issues"
+  },
+  "homepage": "https://github.com/norfolkjs/june2014-beginner-workshop",
+  "dependencies": {
+    "express": "^4.4.5"
+  }
+}

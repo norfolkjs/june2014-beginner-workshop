@@ -3,6 +3,9 @@
   "version": "0.0.6",
   "description": "NorfolkJS Node Beginner Workshop (June 2014 meetup)",
   "main": "example2.js",
+  "engines": {
+    "node": ">=0.10.26"
+  },
   "scripts": {
     "example0": "node example0",
     "example1": "node example1",

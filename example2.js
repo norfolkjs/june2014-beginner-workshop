@@ -9,11 +9,11 @@ app.post('/puppy', function (req, res) {
   res.send(201);
 });
 
-app.put('/puppy', function (req, res) {
+app.put('/puppy/:id', function (req, res) {
   res.send(201);
 });
 
-app.delete('/puppy', function (req, res) {
+app.delete('/puppy/:id', function (req, res) {
   res.send(201);
 });
 

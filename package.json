@@ -1,6 +1,6 @@
 {
   "name": "norfolkjs-june2014-examples",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "NorfolkJS Node Beginner Workshop (June 2014 meetup)",
   "main": "index.js",
   "scripts": {
